@@ -1,0 +1,15 @@
+body {
+
+
+	background-color: #dea5a4;
+}
+h1{
+	color:white;
+	text-align:center;
+	font-size:100px;
+}
+
+#canvas{
+	margin-left:500px;
+	margin-top:50px;
+}
